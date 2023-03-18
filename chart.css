@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+}
+table {
+    border-collapse: collapse;
+}
+.th, td {
+   padding: 15px;
+   height: ;
+}
+.container {
+    margin: 150px auto;
+    margin-left: 150px;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 15px;
+    border: 1px;
+    border-color: #DADADA;
+}
+.edit{
+    background-color: yellow;
+}
+.container-1{
+    background-color: #f9f9f9;
+}
+.yellow {
+    border-radius: 10px;
+    background-color: #FFD43A;
+    width: 115px;
+    height: 36px;
+    font-size: 15px;
+    font-weight: 500px;
+    border: none;
+}
+.red {
+    border-radius: 10px;
+    background-color: #E84949;
+    width: 115px;
+    height: 36px;
+    font-size: 15px;
+    color: white;
+    border: none;
+}
+h3{
+    font-size: 25px;
+    font-weight: 700px;
+}
+.first {
+    height: 57px;
+    width: 72px;
+    text-align: center;
+}
+.teqsti {
+    height: 57px;
+    width: 444px;
+}
+.tarigi {
+    height: 57px;
+    width: 276px;
+    text-align: center;
+}
+.gilaki {
+    height: 57px;
+    width: 368px;
+    text-align: center;
+}
+.satauri {
+    text-align: start;
+}
